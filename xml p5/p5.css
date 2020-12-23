@@ -1,0 +1,57 @@
+h1
+{
+    color:rgba(126, 128, 0, 0.705);
+    font-family: "Copperplate", "Papyrus", "fantasy";
+   text-align: center; 
+  
+}
+
+student{
+    background-color:burlywood;
+    display:block;
+    margin-top:10px;
+    
+}
+usn {
+    font-family: "Lucida Console", "Courier New", monospace;
+    display:block;
+    margin-left:10px;
+    font-size:14px;
+    color:crimson;
+
+}
+name {
+    font-family: "Lucida Console", "Courier New", monospace;
+    display:block;
+    margin-left:10px;
+    font-size:14px;
+    color:crimson;
+
+}
+college{
+   
+    display:block;
+    margin-left:10px;
+    font-size:14px;
+    color:red;
+}
+branch{
+    
+    margin-left:10px;
+    font-size:14px;
+    color:red;
+}
+year{
+    
+    display:block;
+    margin-left:10px;
+    font-size:14px;
+    color:red;
+}
+email{
+    font-family: "Lucida Console", "Courier New", monospace;
+    display:block;
+    margin-left:10px;
+    font-size:14px;
+    color:crimson;
+}
